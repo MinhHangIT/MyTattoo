@@ -12,13 +12,13 @@ export default (styles = StyleSheet.create({
   },
   flexImage: {
     width: width * 0.496,
-    height: (height * 2) / 9,
+    height: height * 2 / 7,
     margin: 1,
     alignItems: 'center'
   },
   imgStyles: {
     width: width * 0.49,
-    height: (height * 2) / 9
+    height: height * 2 / 7
   },
   header: {
     width: width,
